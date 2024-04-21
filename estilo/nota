@@ -1,0 +1,39 @@
+/* #paragrafo{
+    background-color: rgb(132, 225, 173);
+    padding: 0px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#title{
+    background-color: #2da161;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+    font-size: 1.2em;
+}   
+
+.tabela{
+    padding: 10px 20px;
+}
+
+div{
+    display: inline-block;
+    text-align: justify;
+    margin-right: 100px;
+}
+
+ul{
+    padding: 20px 20px;
+} */
+
+aside{
+    padding: 20px 10px;
+}
+
+iframe{
+    display: block;
+    background-color: #175a36;
+    margin: auto;
+    padding: 25px 50px;
+}
